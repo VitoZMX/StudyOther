@@ -1,0 +1,60 @@
+body {
+    background-color: #0d425a;
+}
+
+.textXyest{
+    color: #03CECE;
+    margin-top: 3%;
+    margin-left: 2%;
+    font-size: 60px;
+    font-weight: 550;
+    font-family: sans-serif;
+}
+
+.box{
+    margin: 50px auto 50px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+    width: 400px;
+    border: 5px solid rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.3);
+}
+
+.circle {
+    margin: 0 auto;
+    top:50%;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-image: linear-gradient(to bottom left, #ff8000 30%, #ff0000 50%);
+    -webkit-mask-image: radial-gradient(circle at center, transparent 57%, white 58%);
+    mask-image: radial-gradient(circle at center, transparent 57%, white 58%);
+    animation: mymove 3s linear infinite running;
+}
+
+@keyframes mymove {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.circle:hover{
+    background-image: linear-gradient(to bottom left,#ffffff 30% , #ff0000 50% , #ffffff 70% );
+    border: 1px solid black;
+    animation: mymove2 3s linear infinite running;
+}
+
+@keyframes mymove2 {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(-360deg);
+    }
+}
