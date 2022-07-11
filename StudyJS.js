@@ -131,3 +131,39 @@ function rangeOfNumbers(startNum, endNum) {
 
 //console.log(rangeOfNumbers(6, 9))
 //console.log(rangeOfNumbers(1, 5))
+
+
+//*******ЯНДЕКС КОНТЕКСТ СПРАВКА************************************************ */
+//Node JS 8.16
+
+// const fs = require('fs')
+// let fileContent = fs.readFileSync("input.txt", "utf8");
+
+// const [a, b] = fileContent.toString().split(' ')
+
+// const result = Number(a) + Number(b)
+
+// fs.writeFileSync("output.txt", result.toString())
+
+
+//*****Задание G*********************************** */
+
+// const readline = require('readline');
+
+// const rl = readline.createInterface({
+//     input: process.stdin
+// });
+
+// let lines = [];
+// rl.on('line', (line) => {
+//     lines.push(line);
+// }).on('close', () => {
+//     const [jewels, stones] = lines
+//     let result = 0;
+//     for (let i = 0; i < stones.length; i++) {
+//         if (jewels.includes(stones.charAt(i))) {
+//             ++result;
+//         }
+//     }
+//     process.stdout.write(result.toString());
+// });
