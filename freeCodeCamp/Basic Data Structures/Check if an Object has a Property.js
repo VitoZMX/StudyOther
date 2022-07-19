@@ -32,7 +32,7 @@ let users = {
 };
 
 function isEveryoneHere(userObj) {
-    if (userObj.hasOwnProperty('Alan') && userObj.hasOwnProperty('Jeff') && userObj.hasOwnProperty('Sarah') && userObj.hasOwnProperty('Ryan')) {
+    if ('Alan' in userObj && 'Jeff' in userObj && userObj.hasOwnProperty('Sarah')) {
         return true
     } else {
         return false
