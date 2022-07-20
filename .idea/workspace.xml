@@ -45,6 +45,16 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="Find the Longest Word in a String.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/freeCodeCamp/Basic Algorithm Scripting/Find the Longest Word in a String.js" working-dir="$PROJECT_DIR$/freeCodeCamp/Basic Algorithm Scripting">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.Find the Longest Word in a String.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,7 +68,7 @@
       <workItem from="1658161814465" duration="2073000" />
       <workItem from="1658239761753" duration="7758000" />
       <workItem from="1658250228671" duration="43000" />
-      <workItem from="1658329167389" duration="1441000" />
+      <workItem from="1658329167389" duration="2043000" />
     </task>
     <servers />
   </component>
