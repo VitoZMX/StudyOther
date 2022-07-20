@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e252ccb-627f-4c68-926a-b28caa3cb13d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/freeCodeCamp/Basic Data Structures/Modify an Array Stored in an Object.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +56,9 @@
       <workItem from="1658161673311" duration="15000" />
       <workItem from="1658161756116" duration="22000" />
       <workItem from="1658161814465" duration="2073000" />
-      <workItem from="1658239761753" duration="7694000" />
+      <workItem from="1658239761753" duration="7758000" />
+      <workItem from="1658250228671" duration="43000" />
+      <workItem from="1658329167389" duration="659000" />
     </task>
     <servers />
   </component>
