@@ -45,7 +45,10 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Node.js.Return Largest Numbers in Arrays.js">
+  <component name="RunManager" selected="Node.js.Confirm the Ending.js">
+    <configuration name="Confirm the Ending.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/freeCodeCamp/Basic Algorithm Scripting/Confirm the Ending.js" working-dir="$PROJECT_DIR$/freeCodeCamp/Basic Algorithm Scripting">
+      <method v="2" />
+    </configuration>
     <configuration name="Find the Longest Word in a String.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/freeCodeCamp/Basic Algorithm Scripting/Find the Longest Word in a String.js" working-dir="$PROJECT_DIR$/freeCodeCamp/Basic Algorithm Scripting">
       <method v="2" />
     </configuration>
@@ -54,6 +57,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Confirm the Ending.js" />
         <item itemvalue="Node.js.Return Largest Numbers in Arrays.js" />
         <item itemvalue="Node.js.Find the Longest Word in a String.js" />
       </list>
@@ -73,7 +77,7 @@
       <workItem from="1658239761753" duration="7758000" />
       <workItem from="1658250228671" duration="43000" />
       <workItem from="1658329167389" duration="2068000" />
-      <workItem from="1658413490399" duration="1366000" />
+      <workItem from="1658413490399" duration="1804000" />
     </task>
     <servers />
   </component>
