@@ -1,15 +1,15 @@
 //So far, you have only been able to extract or search a pattern once.
 
-let testStr = "Repeat, Repeat, Repeat";
-let ourRegex = /Repeat/;
-testStr.match(ourRegex);
+// let testStr = "Repeat, Repeat, Repeat"
+// let ourRegex = /Repeat/
+// testStr.match(ourRegex)
 //Here match would
-return ["Repeat"].
+// return ["Repeat"]
 
 //To search or extract a pattern more than once, you can use the global search flag: g.
 
-let repeatRegex = /Repeat/g;
-testStr.match(repeatRegex);
+// let repRegex = /Repeat/g
+// testStr.match(repRegex)
 //And here match returns the value ["Repeat", "Repeat", "Repeat"]
 
 //********************************************************************* */
@@ -19,6 +19,6 @@ testStr.match(repeatRegex);
 // Note
 // You can have multiple flags on your regex like /search/gi
 
-let twinkleStar = "Twinkle, twinkle, little star"
-let starRegex = /twinkle/gi
-let result = twinkleStar.match(starRegex)
+// let twinkleStar = "Twinkle, twinkle, little star"
+// let starRegex = /twinkle/gi
+// let result = twinkleStar.match(starRegex)

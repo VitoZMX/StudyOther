@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2e252ccb-627f-4c68-926a-b28caa3cb13d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/freeCodeCamp/Regular Expressions/Find More Than the First Match.js" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/Regular Expressions/Find More Than the First Match.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +78,7 @@
       <workItem from="1658239761753" duration="7758000" />
       <workItem from="1658250228671" duration="43000" />
       <workItem from="1658329167389" duration="2068000" />
-      <workItem from="1658413490399" duration="1804000" />
+      <workItem from="1658413490399" duration="1955000" />
     </task>
     <servers />
   </component>
