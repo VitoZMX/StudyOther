@@ -46,11 +46,8 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Node.js.Boo who.js">
+  <component name="RunManager" selected="Node.js.Title Case a Sentence.js">
     <configuration name="Boo who.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/freeCodeCamp/Basic Algorithm Scripting/Boo who.js" working-dir="$PROJECT_DIR$/freeCodeCamp/Basic Algorithm Scripting">
-      <method v="2" />
-    </configuration>
-    <configuration name="Confirm the Ending.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/freeCodeCamp/Basic Algorithm Scripting/Confirm the Ending.js" working-dir="$PROJECT_DIR$/freeCodeCamp/Basic Algorithm Scripting">
       <method v="2" />
     </configuration>
     <configuration name="Finders Keepers.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/freeCodeCamp/Basic Algorithm Scripting/Finders Keepers.js" working-dir="$PROJECT_DIR$/freeCodeCamp/Basic Algorithm Scripting">
@@ -59,16 +56,19 @@
     <configuration name="Repeat a String Repeat a String.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/freeCodeCamp/Basic Algorithm Scripting/Repeat a String Repeat a String.js" working-dir="$PROJECT_DIR$/freeCodeCamp/Basic Algorithm Scripting">
       <method v="2" />
     </configuration>
+    <configuration name="Title Case a Sentence.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/freeCodeCamp/Basic Algorithm Scripting/Title Case a Sentence.js" working-dir="$PROJECT_DIR$/freeCodeCamp/Basic Algorithm Scripting">
+      <method v="2" />
+    </configuration>
     <configuration name="Truncate a String.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/freeCodeCamp/Basic Algorithm Scripting/Truncate a String.js" working-dir="$PROJECT_DIR$/freeCodeCamp/Basic Algorithm Scripting">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Title Case a Sentence.js" />
         <item itemvalue="Node.js.Boo who.js" />
         <item itemvalue="Node.js.Finders Keepers.js" />
         <item itemvalue="Node.js.Truncate a String.js" />
         <item itemvalue="Node.js.Repeat a String Repeat a String.js" />
-        <item itemvalue="Node.js.Confirm the Ending.js" />
       </list>
     </recent_temporary>
   </component>
@@ -92,7 +92,7 @@
       <workItem from="1659253998007" duration="4034000" />
       <workItem from="1659258044157" duration="1460000" />
       <workItem from="1659793961859" duration="167000" />
-      <workItem from="1659968257912" duration="906000" />
+      <workItem from="1659968257912" duration="2102000" />
     </task>
     <servers />
   </component>
