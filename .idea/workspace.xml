@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e252ccb-627f-4c68-926a-b28caa3cb13d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SpurIT-Test" beforeDir="false" afterPath="$PROJECT_DIR$/test/SpurIT-Test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SpurIT-Test/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SpurIT-Test/.idea/SpurIT-Test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SpurIT-Test/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SpurIT-Test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SpurIT-Test/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/test/SpurIT-Test/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +27,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/test/SpurIT-Test" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -36,7 +43,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "H:/GitProject/StudyOther",
+    "last_opened_file_path": "H:/GitProject/StudyOther/test",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -46,6 +53,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\GitProject\StudyOther\test" />
+    </key>
+  </component>
   <component name="RunManager" selected="Node.js.Title Case a Sentence.js">
     <configuration name="Boo who.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/freeCodeCamp/Basic Algorithm Scripting/Boo who.js" working-dir="$PROJECT_DIR$/freeCodeCamp/Basic Algorithm Scripting">
       <method v="2" />
@@ -93,7 +105,7 @@
       <workItem from="1659258044157" duration="1460000" />
       <workItem from="1659793961859" duration="167000" />
       <workItem from="1659968257912" duration="2102000" />
-      <workItem from="1661788646550" duration="37000" />
+      <workItem from="1661788646550" duration="414000" />
     </task>
     <servers />
   </component>
