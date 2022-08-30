@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e252ccb-627f-4c68-926a-b28caa3cb13d" name="Changes" comment="" />
+    <list default="true" id="2e252ccb-627f-4c68-926a-b28caa3cb13d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -29,34 +36,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;H:/GitProject/StudyOther/test&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "H:/GitProject/StudyOther/test",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="H:\GitProject\StudyOther\test" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Title Case a Sentence.js">
+  <component name="RunManager" selected="Node.js.Функция поиска самого короткого слова.js">
+    <configuration name="Функция поиска самого короткого слова.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/webDev/Функция поиска самого короткого слова.js" working-dir="$PROJECT_DIR$/webDev">
+      <method v="2" />
+    </configuration>
     <configuration name="Boo who.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/freeCodeCamp/Basic Algorithm Scripting/Boo who.js" working-dir="$PROJECT_DIR$/freeCodeCamp/Basic Algorithm Scripting">
       <method v="2" />
     </configuration>
     <configuration name="Finders Keepers.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/freeCodeCamp/Basic Algorithm Scripting/Finders Keepers.js" working-dir="$PROJECT_DIR$/freeCodeCamp/Basic Algorithm Scripting">
-      <method v="2" />
-    </configuration>
-    <configuration name="Repeat a String Repeat a String.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/freeCodeCamp/Basic Algorithm Scripting/Repeat a String Repeat a String.js" working-dir="$PROJECT_DIR$/freeCodeCamp/Basic Algorithm Scripting">
       <method v="2" />
     </configuration>
     <configuration name="Title Case a Sentence.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/freeCodeCamp/Basic Algorithm Scripting/Title Case a Sentence.js" working-dir="$PROJECT_DIR$/freeCodeCamp/Basic Algorithm Scripting">
@@ -67,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Функция поиска самого короткого слова.js" />
         <item itemvalue="Node.js.Title Case a Sentence.js" />
         <item itemvalue="Node.js.Boo who.js" />
         <item itemvalue="Node.js.Finders Keepers.js" />
         <item itemvalue="Node.js.Truncate a String.js" />
-        <item itemvalue="Node.js.Repeat a String Repeat a String.js" />
       </list>
     </recent_temporary>
   </component>
@@ -97,6 +104,8 @@
       <workItem from="1659793961859" duration="167000" />
       <workItem from="1659968257912" duration="2102000" />
       <workItem from="1661788646550" duration="622000" />
+      <workItem from="1661789283519" duration="325000" />
+      <workItem from="1661877946349" duration="732000" />
     </task>
     <servers />
   </component>
@@ -108,7 +117,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
