@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e252ccb-627f-4c68-926a-b28caa3cb13d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,8 +56,11 @@
       <recent name="H:\GitProject\StudyOther\test" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Функция создания инициалов.js">
+  <component name="RunManager" selected="Node.js.Функция суммирования всех цифр числа.js">
     <configuration name="Функция поиска самого короткого слова.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/webDev/Функция поиска самого короткого слова.js" working-dir="$PROJECT_DIR$/webDev">
+      <method v="2" />
+    </configuration>
+    <configuration name="Функция суммирования всех цифр числа.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/webDev/Функция суммирования всех цифр числа.js" working-dir="$PROJECT_DIR$/webDev">
       <method v="2" />
     </configuration>
     <configuration name="Функция создания инициалов.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/webDev/Функция создания инициалов.js" working-dir="$PROJECT_DIR$/webDev">
@@ -67,19 +69,16 @@
     <configuration name="Boo who.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/freeCodeCamp/Basic Algorithm Scripting/Boo who.js" working-dir="$PROJECT_DIR$/freeCodeCamp/Basic Algorithm Scripting">
       <method v="2" />
     </configuration>
-    <configuration name="Finders Keepers.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/freeCodeCamp/Basic Algorithm Scripting/Finders Keepers.js" working-dir="$PROJECT_DIR$/freeCodeCamp/Basic Algorithm Scripting">
-      <method v="2" />
-    </configuration>
     <configuration name="Title Case a Sentence.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/freeCodeCamp/Basic Algorithm Scripting/Title Case a Sentence.js" working-dir="$PROJECT_DIR$/freeCodeCamp/Basic Algorithm Scripting">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Функция суммирования всех цифр числа.js" />
         <item itemvalue="Node.js.Функция создания инициалов.js" />
         <item itemvalue="Node.js.Функция поиска самого короткого слова.js" />
         <item itemvalue="Node.js.Title Case a Sentence.js" />
         <item itemvalue="Node.js.Boo who.js" />
-        <item itemvalue="Node.js.Finders Keepers.js" />
       </list>
     </recent_temporary>
   </component>
@@ -108,7 +107,9 @@
       <workItem from="1661789283519" duration="325000" />
       <workItem from="1661877946349" duration="732000" />
       <workItem from="1662478512048" duration="86000" />
-      <workItem from="1662478658266" duration="618000" />
+      <workItem from="1662478658266" duration="708000" />
+      <workItem from="1662648457506" duration="650000" />
+      <workItem from="1662999377898" duration="484000" />
     </task>
     <servers />
   </component>
