@@ -167,3 +167,56 @@ function rangeOfNumbers(startNum, endNum) {
 //     }
 //     process.stdout.write(result.toString());
 // });
+const x = 10
+const y = 20
+let xx = x + 10
+let yy = y + 20
+let z = xx + yy
+
+function funcIfElseSpeadTest(num) {
+    if (num < yy && num > xx) {
+        return num + ' 1'
+    } else if (num < z && num > xx) {
+        return num + ' 2'
+    } else if (num > z && num > num - 1) {
+        return num + ' 3'
+    } else {
+        return num + ' 4'
+    }
+}
+//console.log(funcIfElseSpeadTest(999))
+//let resfuncIfElseSpeadTest = [0.15, 0.248, 0.252, 0.202, 0.195]
+
+function sredNumb(arr) {
+    let x = 0
+    for (let i = 0; i < arr.length; i++) {
+        x += arr[i]
+    }
+    return x / arr.length
+}
+//console.log('Результат массива времени If else: ' + sredNumb(resfuncIfElseSpeadTest))
+
+
+
+function funcCaseSpeadTest(num) {
+    const test1 = num < yy && num > xx
+    const test2 = num < z && num > xx
+    const test3 = num > z && num > num - 1
+    const test4 = 999
+
+    switch (num) {
+        case test1:
+            return num + ' 1'
+        case test2:
+            return num + ' 2'
+        case test4:
+            return num + ' 3'
+        default:
+            return num + ' 4'
+    }
+}
+
+//console.log(funcCaseSpeadTest(999))
+
+let resfuncCaseSpeadTest = [0.1528, 0.1528, 0.1528, 0.1528, 0.1528]
+    //console.log('Результат массива времени swicth: ' + sredNumb(resfuncCaseSpeadTest))
