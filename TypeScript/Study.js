@@ -1,3 +1,4 @@
+/*
 "use strict";
 exports.__esModule = true;
 var abr = 100;
@@ -47,3 +48,4 @@ var action = {
     id: 12,
     type: GET_TASKS
 };
+*/
